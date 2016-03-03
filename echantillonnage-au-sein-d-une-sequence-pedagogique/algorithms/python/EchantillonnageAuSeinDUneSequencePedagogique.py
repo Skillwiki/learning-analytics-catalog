@@ -1,5 +1,1 @@
-```python
-
 print "Hello, World!"
-
-```
