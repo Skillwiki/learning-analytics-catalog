@@ -3,7 +3,7 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut ex gravida, varius lorem at, mattis mi. Vestibulum eget consequat tellus. In luctus sodales neque sit amet sagittis. Integer ullamcorper ipsum lectus, et pharetra tortor malesuada a. Aenean tincidunt quam enim. Proin vel diam ex. Sed vitae aliquam nisl. Suspendisse egestas orci non neque dignissim, id tristique metus ultrices. Nunc at est lacinia, vestibulum mauris sagittis, hendrerit purus.
 
 * [Echantillonnage au sein d’une séquence pédagogique](#echantillonnage-au-sein-dune-séquence-pédagogique)
-* [Lorem ipsum] (#)
+* [Lorem ipsum] (#lorem-ipsum)
 * [Lorem ipsum] (#) 
 * [Lorem ipsum] (#)
 * [Lorem ipsum] (#)
@@ -20,3 +20,12 @@ Il est fréquent que les utilisateurs d’un dispositif ne suivent pas de maniè
 **Tags**: *[Echantillonnage] (#)*, *[évitement] (#)*
 
 [See more ...](#https://github.com/hubble-learning-analytics/learning-analytics-catalog/blob/master/echantillonnage-au-sein-d-une-sequence-pedagogique/README.md#echantillonnage-au-sein-dune-séquence-pédagogique)
+
+## Lorem ipsum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut ex gravida, varius lorem at, mattis mi. Vestibulum eget consequat tellus. In luctus sodales neque sit amet sagittis. Integer ullamcorper ipsum lectus, et pharetra tortor malesuada a. Aenean tincidunt quam enim. Proin vel diam ex. Sed vitae aliquam nisl. Suspendisse egestas orci non neque dignissim, id tristique metus ultrices. Nunc at est lacinia, vestibulum mauris sagittis, hendrerit purus.
+
+![Exemple de visualisation](http://www.piloter.org/excel/images/h10.jpg)
+
+**Tags**: *[tag 1] (#)*, *[tag 2] (#)*
+
+[See more ...](#)
